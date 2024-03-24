@@ -1,5 +1,5 @@
-///@description movimentação pro asteroide
-// iniciaizando o nosso asteroide
+///@description movimentação pro stt
+// iniciaizando o nosso satelite
 randomize();
 rotac = random_range(1, 1.5);
 speed = random_range(0.4,0.8);
